@@ -50,7 +50,7 @@ flowchart TD
 
 ## **Getting Started**
 
-1. **Clone the Repository**: `git clone https://github.com/RajSingh-123/CaseStudy.git`
+1. **Clone the Repository**: `git clone https://github.com/RajSingh-123/SmartCaseStudy.git`
 2. **Install Dependencies**: `npm install`
 3. **Deploy to EduChain**: `npx hardhat run scripts/deploy.js --network educhain`
 
