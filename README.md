@@ -3,6 +3,9 @@
 
 This repository contains a Solidity smart contract designed to manage interactive case studies on the blockchain. The contract allows the creation of scenarios where users can make decisions and progress through a series of challenges.
 
+![image](https://github.com/user-attachments/assets/8187024a-60ba-4e04-99f0-96802275b046)
+
+
 ## **Vision**
 
 Our vision is to revolutionize how educational and professional case studies are conducted by leveraging blockchain technology. This system offers transparency, fairness, and a decentralized approach to learning and assessment.
