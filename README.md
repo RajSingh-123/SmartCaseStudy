@@ -63,4 +63,4 @@ For any inquiries or contributions, feel free to reach out:
 
 ---
 
-This `README.md` provides a clear and concise overview of the project, including the vision, contract functionality, and future developments. Adjust the contact details and contract address as necessary.
+This `README.md` provides a clear and concise overview of the project, including the vision, contract functionality, and future developments. 
