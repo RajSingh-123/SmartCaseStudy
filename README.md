@@ -1,5 +1,5 @@
 
-# **Case Study Smart Contract**
+# **Smart Case Study **
 
 This repository contains a Solidity smart contract designed to manage interactive case studies on the blockchain. The contract allows the creation of scenarios where users can make decisions and progress through a series of challenges.
 
